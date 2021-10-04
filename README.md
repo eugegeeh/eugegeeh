@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eugegeeh
-- 👀 I’m interested in aprender
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning python and computer engineering
+- 📫 How to reach me https://www.linkedin.com/in/geovanna-v-85835310b/
 
 <!---
 eugegeeh/eugegeeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
