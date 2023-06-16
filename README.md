@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Geovanna
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 🌱 Computer engineering
+- 🌱 Computer Engineering
 - 📫 How to reach me https://www.linkedin.com/in/geovanna-v-85835310b/
 
 <!---
